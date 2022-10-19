@@ -89,3 +89,371 @@
 
 </body>
 </html>
+/********************************************************************************************************/
+                                                CS
+.top{
+    position:fixed;
+    border: 20px solid rgb(29, 33, 44);
+    border-radius: 2%;
+    left: 20%;
+    background-color: rgb(29, 33, 44);
+    top: 0px;
+    margin: 0px;
+    width: 200px; height: 1000px;
+}
+
+.img{
+    position: absolute;
+    overflow:hidden;
+    -webkit-border-radius:60px;
+    -moz-border-radius:60px;
+    border-radius:60px;
+    width:140px;
+    height:140px;
+    left:350px;
+}
+
+/*************************************************************************/
+.tel{
+    left: 310px;
+    top: 180px;
+    position: absolute;
+    
+    
+}
+.texttel{
+    left: 332px;
+    top: 182px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.mail{
+    left: 310px;
+    top: 210px;
+    position: absolute;
+}
+.textmail{
+    left: 332px;
+    top: 210px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.ville{
+    left: 310px;
+    top:240px;
+    position: absolute;
+}
+.villetext{
+    left: 332px;
+    top: 240px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.competence{
+    left: 300px;
+    top: 300px;
+    position: absolute;
+    border: rgb(69, 139, 211);
+    background-color:rgb(69, 139, 211);
+    width: 16%; height: 5%;
+    border-radius: 5%;
+
+}
+.competenceimg{
+    left: 310px;
+    top: 310px;
+    position: absolute;
+}
+.compétencetext{
+    font-weight: bold;
+    left: 340px;
+    top: 310px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.htmlimg{
+    left: 310px;
+    top: 350px;
+    position: absolute;
+}
+.htmltext{
+    left: 332px;
+    top: 350px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.cssimg{
+    left: 310px;
+    top: 380px;
+    position: absolute;
+}
+.csstext{
+    left: 332px;
+    top: 380px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.word{
+    left: 310px;
+    top: 410px;
+    position: absolute;
+}
+.wordtext{
+    left: 332px;
+    top: 410px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.powershellimg{
+    left: 305px;
+    top: 435px;
+    position: absolute;
+}
+.powershelltext{
+    left: 332px;
+    top: 440px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.Personnaliter{
+    left: 300px;
+    top: 470px;
+    position: absolute;
+    border:rgb(69, 139, 211);
+    background-color: rgb(69, 139, 211);
+    width: 16%; height: 5%;
+    border-radius: 5%;
+}
+.Personnaliterimg{
+    left: 305px;
+    top: 475px;
+    position: absolute;
+}
+.Personnalitertext{
+    font-weight: bold;
+    left: 340px;
+    top: 480px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.innovanttext{
+    left: 320px;
+    top: 520px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.Sérieux{
+    left: 320px;
+    top: 550px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.dynamique{
+    left: 320px;
+    top: 580px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+.Langues{
+    left: 300px;
+    top: 610px;
+    position: absolute;
+    border:rgb(69, 139, 211);
+    background-color: rgb(69, 139, 211);
+    width: 16%; height: 5%;
+    border-radius: 5%;
+}
+.Languesimg{
+    left: 305px;
+    top: 615px;
+    position: absolute;
+}
+.LanguesText{
+    font-weight: bold;
+    left: 340px;
+    top: 620px;
+    position: absolute;
+    color: white;
+}
+.Anglaistext{
+    left: 320px;
+    top: 660px;
+    position: absolute;
+    color: white;
+}
+/*************************************************************************/
+
+.Prénom{
+    font-weight: bold;
+    font-size: 40px;
+    left: 550px;
+    top: 10px;
+    position: absolute;
+    color: rgb(69, 139, 211);
+}
+.Nom{
+    font-weight: bold;
+    font-size: 40px;
+    left: 705px;
+    top: 10px;
+    position: absolute;
+    color: black;
+}
+/*************************************************************************/
+.Titreposte{
+    font-weight: bold;
+    font-size: 20px;
+    left: 550px;
+    top: 70px;
+    position: absolute;
+    
+}
+.TitreText{
+
+    font-size: 15px;
+    left: 550px;
+    top: 90px;
+    position: absolute;
+}
+/*************************************************************************/
+.experience{
+    left: 538px;
+    top: 140px;
+    position: absolute;
+    border:rgb(29, 33, 44);
+    background-color: rgb(29, 33, 44);
+    width: 50%; height: 5%;
+    
+}
+.Blanc1{
+    left: 538px;
+    top: 140px;
+    position: absolute;
+    border:rgb(69, 139, 211);
+    background-color: rgb(69, 139, 211);
+    width: 3%; height: 5%;
+}
+.Exptexte{
+    font-weight: bold;
+    font-size: 25px;
+    left: 590px;
+    top: 145px;
+    position: absolute;
+    color: white;
+}
+.expimg{
+    left: 543px;
+    top: 140px;
+    position: absolute;
+}
+/*************************************************************************/
+.Administrateur{
+    font-weight: bold;
+    left: 570px;
+    top: 185px;
+    position: absolute;
+}
+.Administrateurtext{
+    font-size: 15px;
+    left: 570px;
+    top: 205px;
+    position: absolute;
+}
+.Support{
+    font-weight: bold;
+    left: 570px;
+    top: 310px;
+    position: absolute;
+}
+.supportext{
+    font-size: 15px;
+    left: 570px;
+    top: 330px;
+    position: absolute;
+}
+.Maintenance{
+    font-weight: bold;
+    left: 570px;
+    top: 400px;
+    position: absolute;
+}
+.Maintenancetext{
+    font-size: 15px;
+    left: 570px;
+    top: 420px;
+    position: absolute;
+}
+/*************************************************************************/
+.Formation{
+    left: 538px;
+    top: 505px;
+    position: absolute;
+    border:rgb(29, 33, 44);
+    background-color: rgb(29, 33, 44);
+    width: 50%; height: 5%;
+}
+.Blanc2{
+    left: 538px;
+    top: 505px;
+    position: absolute;
+    border:rgb(69, 139, 211);
+    background-color: rgb(69, 139, 211);
+    width: 3%; height: 5%;
+}
+.FormationText{
+    font-weight: bold;
+    font-size: 25px;
+    left: 590px;
+    top: 508px;
+    position: absolute;
+    color: white;
+
+}
+.FormationImg{
+    left: 547px;
+    top: 507px;
+    position: absolute;
+}
+/*************************************************************************/
+.bac{
+
+    font-weight: bold;
+    left: 570px;
+    top: 555px;
+    position: absolute;
+}
+.bactext{
+    font-size: 14px;
+    left: 570px;
+    top: 575px;
+    position: absolute;
+}
+.Bts{
+    font-weight: bold;
+    left: 570px;
+    top: 600px;
+    position: absolute;
+
+}
+.Btstext{
+    font-size: 14px;
+    left: 570px;
+    top: 620px;
+    position: absolute;
+
+}
+
+
+                                                
