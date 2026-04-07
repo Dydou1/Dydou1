@@ -85,8 +85,6 @@ Alternant en administration systèmes, je travaille au quotidien sur des infrast
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dydou1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dydou1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dydou1&theme=tokyonight&hide_border=true)
 </div>
 
