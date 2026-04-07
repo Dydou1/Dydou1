@@ -4,8 +4,7 @@
 
 **Alternant Administrateur Systèmes · Homelab Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
-[![GitHub followers](https://img.shields.io/github/followers/ton-username?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/ton-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-leroux/)
 
 </div>
 
@@ -15,7 +14,7 @@
 
 Alternant en administration systèmes, je travaille au quotidien sur des infrastructures Windows en entreprise tout en gérant un homelab Proxmox à la maison pour expérimenter et monter en compétences.
 
-- 🏢 **En alternance** — Administration systèmes et réseaux (Active Directory, GPO, DNS, VPN)
+- 🏢 **En alternance** — Administration systèmes et réseaux (Active Directory, GPO, DNS, VPN, DOCKER)
 - 🏠 **À la maison** — Homelab Proxmox : self-hosting, Docker, reverse proxy, DNS interne
 - 📚 **En cours d'apprentissage** — Automatisation, monitoring, et bonnes pratiques DevOps
 - 🌍 **Basé à** Amiens, France
@@ -54,18 +53,23 @@ Alternant en administration systèmes, je travaille au quotidien sur des infrast
 
 ---
 
-## 🏠 Homelab
+## 🏠 Homelab & Entreprise
 
-Mon infrastructure maison tourne sur un serveur **Proxmox** et comprend notamment :
+### 🏠 Homelab personnel (Proxmox)
 
 | Service | Technologie | Rôle |
 |---|---|---|
 | DNS / Blocage pub | AdGuard Home (LXC) | Résolution DNS interne + filtrage |
 | Reverse Proxy | Nginx Proxy Manager (Docker) | Exposition HTTPS des services internes |
-| Dashboard | Homarr (Docker) | Supervision et accès rapide aux services |
 | VPN | OpenVPN | Accès sécurisé au réseau local depuis l'extérieur |
+
+### 🏢 Infrastructure entreprise (alternance)
+
+| Service | Technologie | Rôle |
+|---|---|---|
+| Dashboard | Homarr (Docker) | Supervision et accès rapide aux services |
 | Wiki / Documentation | BookStack (Docker) | Base de connaissances interne |
-| Monitoring | Zabbix (Docker) | Supervision des hôtes et alertes |
+| Monitoring | Zabbix | Supervision des hôtes et alertes |
 | Déploiement OS | FOG Project | Clonage et déploiement d'images réseau |
 | Virtualisation | Hyper-V | Machines virtuelles Windows Server |
 
