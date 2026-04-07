@@ -4,7 +4,9 @@
 
 **Alternant Administrateur Systèmes · Homelab Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-leroux/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![GitHub followers](https://img.shields.io/github/followers/ton-username?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/ton-username)
+
 </div>
 
 ---
@@ -24,6 +26,7 @@ Alternant en administration systèmes, je travaille au quotidien sur des infrast
 
 ### Virtualisation & Infrastructure
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -43,6 +46,9 @@ Alternant en administration systèmes, je travaille au quotidien sur des infrast
 
 ### Outils & Monitoring
 ![Homarr](https://img.shields.io/badge/Homarr-FA5252?style=for-the-badge&logo=homarr&logoColor=white)
+![BookStack](https://img.shields.io/badge/BookStack-0288D1?style=for-the-badge&logo=bookstack&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![FOG Project](https://img.shields.io/badge/FOG_Project-4A90D9?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -58,6 +64,10 @@ Mon infrastructure maison tourne sur un serveur **Proxmox** et comprend notammen
 | Reverse Proxy | Nginx Proxy Manager (Docker) | Exposition HTTPS des services internes |
 | Dashboard | Homarr (Docker) | Supervision et accès rapide aux services |
 | VPN | OpenVPN | Accès sécurisé au réseau local depuis l'extérieur |
+| Wiki / Documentation | BookStack (Docker) | Base de connaissances interne |
+| Monitoring | Zabbix (Docker) | Supervision des hôtes et alertes |
+| Déploiement OS | FOG Project | Clonage et déploiement d'images réseau |
+| Virtualisation | Hyper-V | Machines virtuelles Windows Server |
 
 ---
 
@@ -81,4 +91,3 @@ Mon infrastructure maison tourne sur un serveur **Proxmox** et comprend notammen
 <div align="center">
 <sub>N'hésite pas à explorer mes dépôts ou à me contacter 👋</sub>
 </div>
-
